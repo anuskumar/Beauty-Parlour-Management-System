@@ -1,5 +1,5 @@
 <!--footer-->
     <div class="footer">
-       <p>&copy; 2019 BPMS Admin Panel.</p>
+       <p>&copy; <?php echo date('Y') ?> BPMS Admin Panel.</p>
     </div>
         <!--//footer-->

@@ -5,7 +5,7 @@
         <!--toggle button end-->
         <!--logo -->
         <div class="logo">
-          <a href="index.html">
+          <a href="dashboard.php">
             <h1>BPMS</h1>
             <span>AdminPanel</span>
           </a>
